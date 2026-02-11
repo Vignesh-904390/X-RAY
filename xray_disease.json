@@ -1,0 +1,491 @@
+{
+  "Acetabular Cartilage Degeneration": {
+    "Description": "Degeneration of the cartilage lining the acetabulum (hip socket), often associated with osteoarthritis",
+    "Type": "Degenerative joint disease",
+    "Symptoms": ["Hip pain during weight-bearing", "Stiffness in the morning", "Reduced range of motion", "Pain radiating to groin or thigh"],
+    "Diagnosis": ["X-ray showing joint space narrowing", "MRI for cartilage assessment", "Physical examination", "Patient history review"],
+    "Medicines": ["NSAIDs (Ibuprofen, Naproxen)", "Acetaminophen for pain", "Glucosamine supplements", "Corticosteroid injections"],
+    "Prevention": ["Maintain healthy weight", "Low-impact exercise", "Proper nutrition", "Avoid high-impact activities"],
+    "Care": ["Physical therapy", "Assistive devices if needed", "Regular follow-up", "Activity modification"]
+  },
+  
+  "Ankylosing Spondylitis": {
+    "Description": "Inflammatory arthritis primarily affecting the spine and sacroiliac joints, leading to spinal fusion",
+    "Type": "Autoimmune inflammatory disease",
+    "Symptoms": ["Chronic lower back pain", "Morning stiffness", "Reduced spinal mobility", "Fatigue", "Pain improving with exercise"],
+    "Diagnosis": ["X-ray showing sacroiliitis", "CT scan for detailed imaging", "HLA-B27 blood test", "ESR/CRP inflammation markers"],
+    "Medicines": ["NSAIDs (Diclofenac, Indomethacin)", "TNF inhibitors (Adalimumab)", "IL-17 inhibitors (Secukinumab)", "DMARDs (Sulfasalazine)"],
+    "Prevention": ["Regular exercise program", "Posture maintenance", "Smoking cessation", "Early diagnosis and treatment"],
+    "Care": ["Physical therapy for mobility", "Postural exercises", "Pain management", "Regular rheumatology follow-up"]
+  },
+  
+  "Articular Cartilage Degeneration": {
+    "Description": "Breakdown of cartilage covering joint surfaces, commonly in weight-bearing joints",
+    "Type": "Degenerative joint condition",
+    "Symptoms": ["Joint pain with movement", "Swelling", "Crepitus (grinding sensation)", "Limited mobility", "Stiffness"],
+    "Diagnosis": ["X-ray showing joint space loss", "MRI for cartilage evaluation", "Arthroscopy", "Clinical examination"],
+    "Medicines": ["Oral NSAIDs", "Topical pain relievers", "Hyaluronic acid injections", "Nutritional supplements (Chondroitin)"],
+    "Prevention": ["Weight management", "Joint protection techniques", "Regular low-impact exercise", "Muscle strengthening"],
+    "Care": ["Physical therapy", "Joint unloading strategies", "Pain management", "Regular monitoring"]
+  },
+  
+  "Avascular Necrosis (AVN) of Femoral Head": {
+    "Description": "Death of bone tissue due to interrupted blood supply to the femoral head",
+    "Type": "Osteonecrosis",
+    "Symptoms": ["Groin pain", "Pain worsening with weight-bearing", "Limited hip motion", "Limping", "Pain at rest in later stages"],
+    "Diagnosis": ["X-ray showing crescent sign", "MRI for early detection", "Bone scan", "CT scan for staging"],
+    "Medicines": ["Bisphosphonates (Alendronate)", "NSAIDs for pain", "Cholesterol-lowering drugs", "Blood thinners in early stages"],
+    "Prevention": ["Limit alcohol consumption", "Corticosteroid dose management", "Manage underlying conditions", "Avoid excessive joint loading"],
+    "Care": ["Protected weight-bearing", "Physical therapy", "Regular imaging follow-up", "Surgical consultation when indicated"]
+  },
+  
+  "Cervical Disc Degeneration": {
+    "Description": "Age-related wear and tear of cervical spinal discs with loss of hydration and height",
+    "Type": "Degenerative spine condition",
+    "Symptoms": ["Neck pain and stiffness", "Reduced neck mobility", "Headaches", "Muscle spasms", "Pain radiating to shoulders"],
+    "Diagnosis": ["X-ray showing disc space narrowing", "MRI for disc assessment", "Physical examination", "Neurological evaluation"],
+    "Medicines": ["NSAIDs (Celecoxib, Meloxicam)", "Muscle relaxants", "Neuropathic pain medications", "Corticosteroids"],
+    "Prevention": ["Proper neck posture", "Ergonomic workstation", "Neck strengthening exercises", "Avoid heavy lifting"],
+    "Care": ["Physical therapy", "Neck collar if needed", "Heat/cold therapy", "Regular exercise"]
+  },
+  
+  "Cervical Disc Herniation (Slipped Disc)": {
+    "Description": "Protrusion of cervical disc nucleus pulposus through annulus fibrosus, often compressing nerves",
+    "Type": "Spinal disc disorder",
+    "Symptoms": ["Neck pain", "Arm pain/radiculopathy", "Numbness or tingling in arms", "Muscle weakness", "Reflex changes"],
+    "Diagnosis": ["MRI for definitive diagnosis", "X-ray to rule out other conditions", "CT myelogram", "Electromyography (EMG)"],
+    "Medicines": ["Oral corticosteroids", "NSAIDs", "Gabapentin for neuropathic pain", "Muscle relaxants", "Epidural steroid injections"],
+    "Prevention": ["Proper lifting techniques", "Neck strengthening", "Maintain good posture", "Regular exercise"],
+    "Care": ["Physical therapy", "Activity modification", "Pain management", "Surgical evaluation if conservative treatment fails"]
+  },
+  
+  "Cervical Facet Joint Syndrome": {
+    "Description": "Pain originating from cervical facet joints, often due to arthritis or injury",
+    "Type": "Arthritic/joint pain syndrome",
+    "Symptoms": ["Neck pain with extension", "Pain radiating to shoulders", "Headaches", "Localized tenderness", "Stiffness"],
+    "Diagnosis": ["X-ray showing facet arthritis", "Diagnostic facet joint injections", "CT scan", "Physical examination"],
+    "Medicines": ["NSAIDs", "Facet joint steroid injections", "Muscle relaxants", "Topical analgesics"],
+    "Prevention": ["Neck posture awareness", "Ergonomic adjustments", "Regular neck exercises", "Avoid prolonged static positions"],
+    "Care": ["Physical therapy", "Manual therapy", "Heat therapy", "Activity modification"]
+  },
+  
+  "Cervical Myelopathy": {
+    "Description": "Compression of spinal cord in cervical region leading to neurological deficits",
+    "Type": "Neurological spinal condition",
+    "Symptoms": ["Difficulty walking", "Hand clumsiness", "Balance problems", "Loss of fine motor skills", "Bowel/bladder dysfunction in severe cases"],
+    "Diagnosis": ["MRI showing cord compression", "X-ray for alignment", "CT myelogram", "Neurological examination"],
+    "Medicines": ["Corticosteroids for acute symptoms", "NSAIDs", "Neuropathic pain medications", "Muscle relaxants"],
+    "Prevention": ["Early treatment of cervical stenosis", "Avoid neck trauma", "Regular check-ups for cervical conditions", "Maintain neck strength"],
+    "Care": ["Neurological monitoring", "Physical therapy", "Assistive devices for walking", "Surgical consultation"]
+  },
+  
+  "Cervical Radiculopathy": {
+    "Description": "Nerve root compression in cervical spine causing radiating pain and neurological symptoms",
+    "Type": "Nerve compression syndrome",
+    "Symptoms": ["Sharp, shooting arm pain", "Numbness/tingling in specific dermatome", "Muscle weakness", "Reflex diminishment", "Neck pain"],
+    "Diagnosis": ["MRI showing nerve root compression", "EMG/nerve conduction studies", "Physical examination", "Selective nerve root blocks"],
+    "Medicines": ["Oral corticosteroids", "NSAIDs", "Gabapentin/Pregabalin", "Muscle relaxants", "Epidural steroid injections"],
+    "Prevention": ["Proper neck posture", "Ergonomic work setup", "Neck strengthening", "Avoid repetitive neck motions"],
+    "Care": ["Physical therapy", "Traction therapy", "Pain management", "Activity modification"]
+  },
+  
+  "Cervical Spinal Stenosis": {
+    "Description": "Narrowing of spinal canal in cervical region, potentially compressing spinal cord or nerves",
+    "Type": "Spinal canal narrowing condition",
+    "Symptoms": ["Neck pain", "Arm numbness/weakness", "Balance difficulties", "Hand clumsiness", "Pain with neck extension"],
+    "Diagnosis": ["MRI for canal assessment", "CT myelogram", "X-ray for alignment", "Neurological examination"],
+    "Medicines": ["NSAIDs", "Neuropathic pain medications", "Corticosteroids", "Analgesics"],
+    "Prevention": ["Maintain neck flexibility", "Regular exercise", "Proper posture", "Avoid neck trauma"],
+    "Care": ["Physical therapy", "Activity modification", "Regular monitoring", "Surgical evaluation if progressive"]
+  },
+  
+  "Cervical Spondylosis": {
+    "Description": "Age-related degeneration of cervical spine including discs, joints, and bones",
+    "Type": "Degenerative spinal condition",
+    "Symptoms": ["Chronic neck pain", "Stiffness", "Headaches", "Limited neck motion", "Crepitus with movement"],
+    "Diagnosis": ["X-ray showing osteophytes", "MRI for neural elements", "CT scan for bone detail", "Physical examination"],
+    "Medicines": ["NSAIDs", "Muscle relaxants", "Analgesics", "Topical pain relievers"],
+    "Prevention": ["Neck-strengthening exercises", "Good posture", "Ergonomic adjustments", "Regular physical activity"],
+    "Care": ["Physical therapy", "Heat/cold therapy", "Neck support if needed", "Regular exercise"]
+  },
+  
+  "Cervicothoracic Junction Injury": {
+    "Description": "Trauma or degeneration at the transition zone between cervical and thoracic spine",
+    "Type": "Spinal junction injury",
+    "Symptoms": ["Neck and upper back pain", "Reduced mobility", "Muscle spasms", "Pain with rotation", "Possible neurological symptoms"],
+    "Diagnosis": ["X-ray showing alignment", "CT scan for bone injury", "MRI for soft tissue", "Physical examination"],
+    "Medicines": ["NSAIDs", "Muscle relaxants", "Analgesics", "Topical treatments"],
+    "Prevention": ["Proper lifting techniques", "Core strengthening", "Postural training", "Avoidance of trauma"],
+    "Care": ["Physical therapy", "Gradual return to activity", "Postural correction", "Pain management"]
+  },
+  
+  "Chondromalacia Patella": {
+    "Description": "Softening and degeneration of cartilage on the underside of the patella",
+    "Type": "Cartilage degeneration",
+    "Symptoms": ["Knee pain with activity", "Pain when climbing stairs", "Grinding sensation", "Swelling after activity", "Pain after sitting"],
+    "Diagnosis": ["X-ray showing patellar alignment", "MRI for cartilage assessment", "Physical examination", "Arthroscopy if needed"],
+    "Medicines": ["NSAIDs", "Topical analgesics", "Glucosamine supplements", "Corticosteroid injections"],
+    "Prevention": ["Quadriceps strengthening", "Proper footwear", "Avoid excessive knee bending", "Maintain healthy weight"],
+    "Care": ["Physical therapy", "Activity modification", "Knee bracing/taping", "Regular exercise"]
+  },
+  
+  "Costal Bone Contusion": {
+    "Description": "Bruising of rib bone without fracture, typically from direct trauma",
+    "Type": "Bone bruise/injury",
+    "Symptoms": ["Localized rib pain", "Pain with breathing/coughing", "Tenderness to touch", "Swelling", "Bruising"],
+    "Diagnosis": ["X-ray to rule out fracture", "CT scan if severe", "Physical examination", "Ultrasound in some cases"],
+    "Medicines": ["NSAIDs for pain/inflammation", "Analgesics", "Topical treatments", "Muscle relaxants if spasms"],
+    "Prevention": ["Protective gear in sports", "Fall prevention", "Core strengthening", "Proper technique in activities"],
+    "Care": ["Rest", "Ice application", "Gradual return to activity", "Breathing exercises"]
+  },
+  
+  "Costovertebral Joint Injury": {
+    "Description": "Injury to joints connecting ribs to thoracic vertebrae",
+    "Type": "Spinal joint injury",
+    "Symptoms": ["Upper back pain", "Pain with breathing", "Localized tenderness", "Muscle spasms", "Reduced thoracic mobility"],
+    "Diagnosis": ["X-ray showing alignment", "CT scan for detailed view", "MRI for soft tissue", "Physical examination"],
+    "Medicines": ["NSAIDs", "Muscle relaxants", "Analgesics", "Joint injections if chronic"],
+    "Prevention": ["Proper lifting technique", "Core strengthening", "Postural awareness", "Avoidance of trauma"],
+    "Care": ["Physical therapy", "Manual therapy", "Gradual mobilization", "Pain management"]
+  },
+  
+  "Femoral Head Degeneration": {
+    "Description": "Progressive deterioration of femoral head cartilage and bone, often precursor to osteoarthritis",
+    "Type": "Degenerative joint disease",
+    "Symptoms": ["Hip pain with weight-bearing", "Reduced range of motion", "Pain in groin/thigh", "Limping", "Stiffness"],
+    "Diagnosis": ["X-ray showing joint changes", "MRI for early detection", "CT scan for 3D assessment", "Bone scan if needed"],
+    "Medicines": ["NSAIDs", "Glucosamine/chondroitin", "Analgesics", "Viscosupplementation injections"],
+    "Prevention": ["Weight management", "Low-impact exercise", "Proper nutrition", "Early intervention"],
+    "Care": ["Physical therapy", "Assistive devices if needed", "Activity modification", "Regular follow-up"]
+  },
+  
+  "Femoral Head Ischemia": {
+    "Description": "Reduced blood flow to femoral head, potentially leading to avascular necrosis",
+    "Type": "Vascular insufficiency condition",
+    "Symptoms": ["Groin pain", "Pain with weight-bearing", "Limited hip motion", "Limping", "Pain at rest in advanced cases"],
+    "Diagnosis": ["MRI for early detection", "X-ray for later changes", "Bone scan", "CT angiography"],
+    "Medicines": ["Bisphosphonates", "NSAIDs", "Vasodilators", "Anticoagulants if indicated"],
+    "Prevention": ["Manage risk factors (alcohol, steroids)", "Early diagnosis", "Regular monitoring if at risk", "Healthy lifestyle"],
+    "Care": ["Protected weight-bearing", "Physical therapy", "Regular imaging follow-up", "Surgical consultation"]
+  },
+  
+  "Femoroacetabular Impingement (FAI)": {
+    "Description": "Abnormal contact between femoral head/neck and acetabulum, causing cartilage damage",
+    "Type": "Mechanical hip disorder",
+    "Symptoms": ["Hip/groin pain", "Stiffness", "Pain with flexion activities", "Clicking/locking sensation", "Limited motion"],
+    "Diagnosis": ["X-ray showing bony morphology", "MRI for labral assessment", "CT for 3D reconstruction", "Diagnostic injections"],
+    "Medicines": ["NSAIDs", "Corticosteroid injections", "Analgesics", "Muscle relaxants"],
+    "Prevention": ["Proper exercise technique", "Hip flexibility maintenance", "Core strengthening", "Avoid excessive hip stress"],
+    "Care": ["Physical therapy", "Activity modification", "Pain management", "Surgical options if conservative fails"]
+  },
+  
+  "Forward Head Posture Syndrome": {
+    "Description": "Postural deformity with anterior positioning of head relative to shoulders, causing strain",
+    "Type": "Postural syndrome",
+    "Symptoms": ["Neck pain", "Upper back pain", "Headaches", "Muscle fatigue", "Reduced cervical mobility"],
+    "Diagnosis": ["X-ray showing alignment", "Physical examination", "Postural assessment", "Range of motion testing"],
+    "Medicines": ["NSAIDs if inflamed", "Muscle relaxants", "Analgesics", "Topical treatments"],
+    "Prevention": ["Ergonomic workstation setup", "Postural awareness", "Regular breaks from sitting", "Neck strengthening"],
+    "Care": ["Physical therapy", "Postural correction exercises", "Ergonomic adjustments", "Stretching routine"]
+  },
+  
+  "Gout Arthritis of Knee": {
+    "Description": "Inflammatory arthritis caused by urate crystal deposition in knee joint",
+    "Type": "Crystal arthropathy",
+    "Symptoms": ["Sudden severe knee pain", "Redness and swelling", "Warmth to touch", "Tenderness", "Fever in some cases"],
+    "Diagnosis": ["X-ray showing erosions", "Joint fluid analysis for crystals", "Blood uric acid levels", "Ultrasound for crystals"],
+    "Medicines": ["Colchicine for acute attacks", "NSAIDs (Indomethacin)", "Corticosteroids", "Allopurinol for prevention"],
+    "Prevention": ["Diet low in purines", "Adequate hydration", "Weight management", "Limit alcohol"],
+    "Care": ["Rest during acute attacks", "Ice application", "Elevation", "Long-term urate-lowering therapy"]
+  },
+  
+  "Greater Trochanteric Pain Syndrome": {
+    "Description": "Pain over lateral hip involving bursae and gluteal tendons",
+    "Type": "Overuse/soft tissue condition",
+    "Symptoms": ["Lateral hip pain", "Pain lying on affected side", "Pain with walking/climbing", "Tenderness over greater trochanter", "Possible snapping sensation"],
+    "Diagnosis": ["X-ray to rule out bone pathology", "MRI for soft tissue assessment", "Ultrasound for dynamic evaluation", "Physical examination"],
+    "Medicines": ["NSAIDs", "Corticosteroid injections", "Analgesics", "Topical treatments"],
+    "Prevention": ["Proper exercise technique", "Hip strengthening", "Avoid repetitive stress", "Proper footwear"],
+    "Care": ["Physical therapy", "Activity modification", "Stretching program", "Pain management"]
+  },
+  
+  "Hairline Rib Fracture": {
+    "Description": "Incomplete or non-displaced fracture of rib without significant displacement",
+    "Type": "Bone fracture",
+    "Symptoms": ["Localized rib pain", "Pain with breathing/coughing", "Tenderness", "Possible bruising", "Muscle spasms"],
+    "Diagnosis": ["X-ray (may not always show)", "CT scan for confirmation", "Ultrasound", "Physical examination"],
+    "Medicines": ["NSAIDs for pain", "Analgesics", "Muscle relaxants if spasms", "Topical treatments"],
+    "Prevention": ["Protective gear in contact sports", "Fall prevention", "Bone health maintenance", "Proper technique"],
+    "Care": ["Rest", "Ice application", "Gradual return to activity", "Breathing exercises"]
+  },
+  
+  "Hip Joint Degenerative Disease": {
+    "Description": "Progressive deterioration of hip joint including cartilage, bone, and surrounding structures",
+    "Type": "Degenerative joint disease",
+    "Symptoms": ["Hip pain with activity", "Stiffness", "Reduced range of motion", "Limping", "Pain at rest in advanced cases"],
+    "Diagnosis": ["X-ray showing joint space narrowing", "MRI for cartilage assessment", "CT for surgical planning", "Physical examination"],
+    "Medicines": ["NSAIDs", "Acetaminophen", "Glucosamine supplements", "Corticosteroid injections"],
+    "Prevention": ["Weight management", "Low-impact exercise", "Proper nutrition", "Early intervention"],
+    "Care": ["Physical therapy", "Assistive devices", "Activity modification", "Regular follow-up"]
+  },
+  
+  "Hip Labral Tear": {
+    "Description": "Tear of the fibrocartilaginous labrum surrounding the acetabulum",
+    "Type": "Soft tissue injury",
+    "Symptoms": ["Hip/groin pain", "Clicking/locking sensation", "Stiffness", "Pain with certain motions", "Feeling of instability"],
+    "Diagnosis": ["MRI arthrogram for best visualization", "X-ray to assess bony anatomy", "Physical examination", "Diagnostic injections"],
+    "Medicines": ["NSAIDs", "Corticosteroid injections", "Analgesics", "Muscle relaxants"],
+    "Prevention": ["Proper warm-up before activity", "Hip strengthening", "Avoid extreme hip motions", "Proper technique in sports"],
+    "Care": ["Physical therapy", "Activity modification", "Pain management", "Surgical repair if conservative fails"]
+  },
+  
+  "Iliopsoas Bursitis": {
+    "Description": "Inflammation of bursa located between iliopsoas tendon and hip joint",
+    "Type": "Bursal inflammation",
+    "Symptoms": ["Anterior hip/groin pain", "Pain with hip flexion", "Snapping sensation", "Tenderness", "Pain radiating to thigh"],
+    "Diagnosis": ["Ultrasound for dynamic assessment", "MRI for confirmation", "X-ray to rule out bone issues", "Physical examination"],
+    "Medicines": ["NSAIDs", "Corticosteroid injections", "Analgesics", "Muscle relaxants"],
+    "Prevention": ["Proper warm-up", "Hip flexibility maintenance", "Avoid overuse", "Proper exercise technique"],
+    "Care": ["Rest from aggravating activities", "Physical therapy", "Stretching program", "Gradual return to activity"]
+  },
+  
+  "Knee Osteoarthritis": {
+    "Description": "Degenerative joint disease of knee characterized by cartilage loss and bone changes",
+    "Type": "Degenerative arthritis",
+    "Symptoms": ["Knee pain with activity", "Morning stiffness", "Swelling", "Reduced mobility", "Crepitus"],
+    "Diagnosis": ["X-ray showing joint space narrowing", "MRI for detailed assessment", "Physical examination", "Clinical criteria"],
+    "Medicines": ["NSAIDs", "Acetaminophen", "Topical NSAIDs", "Corticosteroid injections", "Hyaluronic acid injections"],
+    "Prevention": ["Weight management", "Low-impact exercise", "Knee strengthening", "Avoid high-impact activities"],
+    "Care": ["Physical therapy", "Assistive devices if needed", "Activity modification", "Regular exercise"]
+  },
+  
+  "Ligament Injury of Cervical Spine": {
+    "Description": "Damage to ligaments supporting cervical spine, ranging from sprains to complete tears",
+    "Type": "Soft tissue injury",
+    "Symptoms": ["Neck pain", "Muscle spasms", "Reduced range of motion", "Possible neurological symptoms", "Tenderness"],
+    "Diagnosis": ["X-ray showing alignment", "MRI for ligament assessment", "CT scan if fracture suspected", "Physical examination"],
+    "Medicines": ["NSAIDs", "Muscle relaxants", "Analgesics", "Topical treatments"],
+    "Prevention": ["Proper neck protection in sports", "Neck strengthening", "Avoidance of trauma", "Proper technique"],
+    "Care": ["Cervical collar if indicated", "Physical therapy", "Gradual mobilization", "Pain management"]
+  },
+  
+  "Ligaments injury": {
+    "Description": "General term for damage to ligaments from mild sprains to complete tears",
+    "Type": "Soft tissue injury",
+    "Symptoms": ["Pain at injury site", "Swelling", "Bruising", "Joint instability", "Reduced function"],
+    "Diagnosis": ["X-ray to rule out fracture", "MRI for ligament assessment", "Ultrasound for dynamic evaluation", "Physical examination"],
+    "Medicines": ["NSAIDs", "Analgesics", "Topical treatments", "Muscle relaxants if spasms"],
+    "Prevention": ["Proper warm-up before activity", "Strength training", "Proper technique", "Use of protective equipment"],
+    "Care": ["RICE protocol (Rest, Ice, Compression, Elevation)", "Physical therapy", "Gradual return to activity", "Bracing if needed"]
+  },
+  
+  "Loss of Cervical Lordosis": {
+    "Description": "Reduction or reversal of normal forward curvature of cervical spine",
+    "Type": "Postural/spinal alignment condition",
+    "Symptoms": ["Neck pain", "Headaches", "Muscle fatigue", "Reduced mobility", "Possible neurological symptoms"],
+    "Diagnosis": ["X-ray showing alignment", "MRI if neurological symptoms", "Physical examination", "Postural assessment"],
+    "Medicines": ["NSAIDs if pain/inflammation", "Muscle relaxants", "Analgesics", "Topical treatments"],
+    "Prevention": ["Proper posture", "Ergonomic workstation", "Neck strengthening exercises", "Regular breaks from sitting"],
+    "Care": ["Physical therapy", "Postural correction", "Therapeutic exercises", "Ergonomic adjustments"]
+  },
+  
+  "Malalignment-Related OA": {
+    "Description": "Osteoarthritis secondary to joint malalignment increasing load on specific compartments",
+    "Type": "Secondary osteoarthritis",
+    "Symptoms": ["Joint pain with activity", "Swelling", "Deformity", "Reduced mobility", "Pain pattern related to alignment"],
+    "Diagnosis": ["X-ray showing alignment and arthritis", "Gait analysis", "Physical examination", "Weight-bearing radiographs"],
+    "Medicines": ["NSAIDs", "Analgesics", "Corticosteroid injections", "Viscosupplementation"],
+    "Prevention": ["Early correction of malalignment", "Proper footwear", "Bracing if indicated", "Weight management"],
+    "Care": ["Physical therapy", "Orthotic devices", "Activity modification", "Surgical realignment if severe"]
+  },
+  
+  "Medial Compartment Osteoarthritis": {
+    "Description": "Osteoarthritis primarily affecting the medial (inner) compartment of knee joint",
+    "Type": "Compartment-specific osteoarthritis",
+    "Symptoms": ["Inner knee pain", "Pain with weight-bearing", "Varus (bow-legged) deformity", "Swelling", "Reduced mobility"],
+    "Diagnosis": ["X-ray showing medial joint space narrowing", "Standing alignment films", "MRI for detailed assessment", "Physical examination"],
+    "Medicines": ["NSAIDs", "Acetaminophen", "Corticosteroid injections", "Hyaluronic acid injections"],
+    "Prevention": ["Weight management", "Knee strengthening", "Proper footwear", "Avoid high-impact activities"],
+    "Care": ["Unloader brace", "Physical therapy", "Assistive devices if needed", "Activity modification"]
+  },
+  
+  "Meniscal Degeneration": {
+    "Description": "Age-related wear and tear of knee meniscus without acute tear",
+    "Type": "Degenerative meniscal condition",
+    "Symptoms": ["Knee pain", "Swelling", "Stiffness", "Mechanical symptoms (catching)", "Pain with twisting"],
+    "Diagnosis": ["MRI showing meniscal signal changes", "X-ray to assess arthritis", "Physical examination", "Clinical history"],
+    "Medicines": ["NSAIDs", "Analgesics", "Corticosteroid injections", "Supplements (Glucosamine)"],
+    "Prevention": ["Knee strengthening", "Proper exercise technique", "Weight management", "Avoid excessive knee stress"],
+    "Care": ["Physical therapy", "Activity modification", "Pain management", "Regular exercise"]
+  },
+  
+  "Meniscal Tear": {
+    "Description": "Disruption of knee meniscus fibrocartilage, either traumatic or degenerative",
+    "Type": "Knee cartilage injury",
+    "Symptoms": ["Knee pain", "Swelling", "Locking/catching", "Limited extension", "Pain with twisting"],
+    "Diagnosis": ["MRI for definitive diagnosis", "X-ray to rule out arthritis", "Physical examination (McMurray test)", "Clinical history"],
+    "Medicines": ["NSAIDs", "Analgesics", "Corticosteroid injections", "Muscle relaxants if spasms"],
+    "Prevention": ["Proper warm-up", "Knee strengthening", "Proper technique in sports", "Avoid sudden twisting motions"],
+    "Care": ["Physical therapy", "Activity modification", "Pain management", "Surgical repair if indicated"]
+  },
+  
+  "Nerve Root Compression": {
+    "Description": "Compression of spinal nerve roots causing radicular symptoms",
+    "Type": "Neurological compression syndrome",
+    "Symptoms": ["Radiating pain along nerve", "Numbness/tingling", "Muscle weakness", "Reflex changes", "Sensory disturbances"],
+    "Diagnosis": ["MRI showing compression", "CT myelogram", "EMG/nerve conduction studies", "Physical examination"],
+    "Medicines": ["Oral corticosteroids", "NSAIDs", "Gabapentin/Pregabalin", "Muscle relaxants", "Epidural steroid injections"],
+    "Prevention": ["Proper posture", "Core strengthening", "Ergonomic adjustments", "Regular exercise"],
+    "Care": ["Physical therapy", "Traction if indicated", "Pain management", "Surgical decompression if conservative fails"]
+  },
+  
+  "Nondisplaced Rib Fracture": {
+    "Description": "Rib fracture without displacement of bone fragments",
+    "Type": "Bone fracture",
+    "Symptoms": ["Localized rib pain", "Pain with breathing/coughing", "Tenderness", "Possible bruising", "Muscle spasms"],
+    "Diagnosis": ["X-ray showing fracture line", "CT scan if unclear", "Ultrasound", "Physical examination"],
+    "Medicines": ["NSAIDs for pain", "Analgesics", "Muscle relaxants", "Topical treatments"],
+    "Prevention": ["Protective gear", "Fall prevention", "Bone health maintenance", "Proper technique"],
+    "Care": ["Pain management", "Breathing exercises", "Gradual return to activity", "Follow-up imaging"]
+  },
+  
+  "Normal (cervical spine neck)": {
+    "Description": "Normal radiographic appearance of cervical spine without significant abnormalities",
+    "Type": "Normal finding",
+    "Symptoms": ["None or symptoms unrelated to cervical spine pathology"],
+    "Diagnosis": ["X-ray showing normal alignment", "No evidence of degeneration", "Normal disc spaces", "No fracture or instability"],
+    "Medicines": ["None indicated for cervical spine", "Treat other causes of symptoms", "Analgesics if musculoskeletal pain", "Muscle relaxants if spasms"],
+    "Prevention": ["Maintain neck health", "Proper posture", "Regular exercise", "Neck protection in risky activities"],
+    "Care": ["Reassurance", "Address other symptom causes", "Neck health maintenance", "Regular check-ups if risk factors"]
+  },
+  
+  "Normal (Hip (Pelvic))": {
+    "Description": "Normal radiographic appearance of hip and pelvis without significant abnormalities",
+    "Type": "Normal finding",
+    "Symptoms": ["None or symptoms from other sources"],
+    "Diagnosis": ["X-ray showing normal joint spaces", "No evidence of arthritis", "Normal bone density", "No fracture or deformity"],
+    "Medicines": ["None indicated for hip pathology", "Treat other causes of symptoms", "Analgesics if pain present", "Anti-inflammatories if indicated"],
+    "Prevention": ["Maintain hip health", "Regular exercise", "Weight management", "Proper nutrition"],
+    "Care": ["Reassurance", "Address other symptom causes", "Hip health maintenance", "Regular activity"]
+  },
+  
+  "Normal (Knee Osteoarthritis)": {
+    "Description": "Normal knee radiographs without evidence of osteoarthritis",
+    "Type": "Normal finding",
+    "Symptoms": ["None or mild symptoms from other causes"],
+    "Diagnosis": ["X-ray showing preserved joint spaces", "No osteophytes", "Normal alignment", "No significant findings"],
+    "Medicines": ["None for osteoarthritis", "Analgesics if pain present", "Topical treatments if indicated", "Supplements for prevention if desired"],
+    "Prevention": ["Knee health maintenance", "Weight management", "Regular exercise", "Proper footwear"],
+    "Care": ["Reassurance", "Knee health maintenance", "Regular activity", "Address other pain sources"]
+  },
+  
+  "Normal (Occult Rib Fractures)": {
+    "Description": "Normal radiograph findings in suspected rib fracture cases (fracture not visible on X-ray)",
+    "Type": "Normal imaging finding (possible false negative)",
+    "Symptoms": ["Rib pain despite normal X-ray", "Tenderness", "Pain with breathing"],
+    "Diagnosis": ["X-ray appears normal", "Clinical suspicion remains", "Consider CT or follow-up X-ray", "Physical examination findings"],
+    "Medicines": ["Pain management as needed", "NSAIDs", "Analgesics", "Muscle relaxants"],
+    "Prevention": ["Same as for rib fractures", "Protective measures", "Fall prevention", "Bone health"],
+    "Care": ["Treat as potential fracture clinically", "Follow-up if symptoms persist", "Pain management", "Activity modification"]
+  },
+  
+  "Occult Hip Fracture": {
+    "Description": "Hip fracture not visible on initial X-rays but suspected clinically",
+    "Type": "Suspected fracture with normal X-ray",
+    "Symptoms": ["Hip/groin pain after trauma", "Inability to bear weight", "Pain with motion", "Possible shortening/external rotation"],
+    "Diagnosis": ["X-ray initially normal", "MRI for definitive diagnosis", "CT scan alternative", "Bone scan if MRI unavailable"],
+    "Medicines": ["Pain management", "Analgesics", "NSAIDs", "Possible osteoporosis treatment"],
+    "Prevention": ["Fall prevention", "Bone health maintenance", "Home safety modifications", "Regular exercise"],
+    "Care": ["Non-weight-bearing until diagnosis confirmed", "Close follow-up", "Possible surgical consultation", "Pain management"]
+  },
+  
+  "Occult Rib Fracture": {
+    "Description": "Rib fracture not visible on initial X-rays but present",
+    "Type": "Radiographically occult fracture",
+    "Symptoms": ["Rib pain after trauma", "Tenderness", "Pain with breathing/coughing", "Possible bruising"],
+    "Diagnosis": ["Initial X-ray normal", "Follow-up X-ray in 10-14 days", "CT scan for confirmation", "Ultrasound if available"],
+    "Medicines": ["Pain management", "NSAIDs", "Analgesics", "Muscle relaxants if needed"],
+    "Prevention": ["Same as for visible fractures", "Protective gear", "Fall prevention", "Bone health"],
+    "Care": ["Pain management", "Breathing exercises", "Activity modification", "Follow-up imaging"]
+  },
+  
+  "Osteochondral defect": {
+    "Description": "Localized area of damage involving both cartilage and underlying bone",
+    "Type": "Articular surface injury",
+    "Symptoms": ["Joint pain", "Swelling", "Mechanical symptoms", "Catching/locking", "Stiffness"],
+    "Diagnosis": ["MRI for best visualization", "X-ray may show bone changes", "CT for bone detail", "Arthroscopy definitive"],
+    "Medicines": ["NSAIDs", "Analgesics", "Corticosteroid injections", "Supplements"],
+    "Prevention": ["Joint protection", "Proper technique in sports", "Avoid high-impact activities", "Early treatment of injuries"],
+    "Care": ["Activity modification", "Physical therapy", "Possible surgical intervention", "Pain management"]
+  },
+  
+  "Patellofemoral Osteoarthritis": {
+    "Description": "Osteoarthritis specifically affecting patellofemoral joint (kneecap and femur)",
+    "Type": "Compartment-specific osteoarthritis",
+    "Symptoms": ["Anterior knee pain", "Pain with stairs/kneeling", "Crepitus", "Swelling", "Stiffness"],
+    "Diagnosis": ["X-ray with skyline view", "MRI for cartilage assessment", "Physical examination", "Clinical history"],
+    "Medicines": ["NSAIDs", "Topical treatments", "Corticosteroid injections", "Supplements"],
+    "Prevention": ["Quadriceps strengthening", "Proper tracking exercises", "Weight management", "Avoid excessive knee bending"],
+    "Care": ["Physical therapy", "Patellar taping/bracing", "Activity modification", "Regular exercise"]
+  },
+  
+  "Pseudogout": {
+    "Description": "Acute arthritis caused by calcium pyrophosphate crystal deposition",
+    "Type": "Crystal arthropathy",
+    "Symptoms": ["Sudden joint pain/swelling", "Redness", "Warmth", "Fever possible", "Often affects knees/wrists"],
+    "Diagnosis": ["X-ray showing chondrocalcinosis", "Joint fluid analysis for crystals", "Blood tests to rule out gout", "Clinical presentation"],
+    "Medicines": ["NSAIDs", "Colchicine", "Corticosteroids (oral or injection)", "Analgesics"],
+    "Prevention": ["Adequate hydration", "Treat underlying conditions", "Regular follow-up if recurrent", "Joint protection"],
+    "Care": ["Rest during acute attacks", "Ice application", "Elevation", "Long-term management if chronic"]
+  },
+  
+  "Rheumatoid Arthritis of Hip": {
+    "Description": "Inflammatory autoimmune arthritis affecting hip joints",
+    "Type": "Autoimmune inflammatory arthritis",
+    "Symptoms": ["Hip pain/stiffness", "Morning stiffness >30 minutes", "Swelling", "Fatigue", "Systemic symptoms possible"],
+    "Diagnosis": ["X-ray showing periarticular erosions", "MRI for early changes", "Rheumatoid factor/anti-CCP", "ESR/CRP inflammation markers"],
+    "Medicines": ["DMARDs (Methotrexate)", "Biologics (TNF inhibitors)", "NSAIDs", "Corticosteroids"],
+    "Prevention": ["Early diagnosis and treatment", "Regular rheumatology care", "Joint protection", "Smoking cessation"],
+    "Care": ["Physical therapy", "Activity modification", "Pain management", "Regular monitoring"]
+  },
+  
+  "Spinal Cord Compression": {
+    "Description": "Pathological compression of spinal cord leading to neurological deficits",
+    "Type": "Neurological emergency",
+    "Symptoms": ["Weakness in limbs", "Numbness/tingling", "Balance problems", "Bowel/bladder dysfunction", "Pain at compression site"],
+    "Diagnosis": ["Emergency MRI", "CT myelogram if MRI contraindicated", "X-ray for alignment", "Neurological examination"],
+    "Medicines": ["High-dose corticosteroids", "Analgesics", "Muscle relaxants", "Possible chemotherapy if tumor"],
+    "Prevention": ["Early treatment of underlying conditions", "Regular follow-up for spinal conditions", "Avoidance of trauma", "Prompt attention to neurological symptoms"],
+    "Care": ["Emergency neurosurgical consultation", "Neurological monitoring", "Rehabilitation if deficits", "Treatment of underlying cause"]
+  },
+  
+  "Tendinopathy around Hip": {
+    "Description": "Degenerative changes in hip tendons without significant inflammation",
+    "Type": "Tendon degenerative condition",
+    "Symptoms": ["Hip pain with specific movements", "Tenderness over tendon", "Pain with resisted motion", "Stiffness", "Possible weakness"],
+    "Diagnosis": ["Ultrasound for tendon assessment", "MRI if diagnosis unclear", "X-ray to rule out bone issues", "Physical examination"],
+    "Medicines": ["NSAIDs", "Analgesics", "Corticosteroid injections (cautiously)", "Topical treatments"],
+    "Prevention": ["Proper warm-up", "Gradual increase in activity", "Strength training", "Avoid overuse"],
+    "Care": ["Physical therapy", "Eccentric exercises", "Activity modification", "Gradual return to activity"]
+  },
+  
+  "Whiplash Injury": {
+    "Description": "Neck injury from rapid acceleration-deceleration forces, typically from motor vehicle accidents",
+    "Type": "Acceleration-deceleration injury",
+    "Symptoms": ["Neck pain/stiffness", "Headaches", "Shoulder/back pain", "Dizziness", "Cognitive symptoms possible"],
+    "Diagnosis": ["X-ray to rule out fracture", "MRI if neurological symptoms", "CT if fracture suspected", "Physical examination"],
+    "Medicines": ["NSAIDs", "Muscle relaxants", "Analgesics", "Possible short-term opioids if severe"],
+    "Prevention": ["Proper head restraint adjustment", "Defensive driving", "Neck strengthening", "Awareness of risk factors"],
+    "Care": ["Early mobilization", "Physical therapy", "Gradual return to activity", "Pain management"]
+  },
+  
+  "Whiplash-Associated Disorder with Occult Rib Injury": {
+    "Description": "Whiplash injury combined with rib injury not visible on initial imaging",
+    "Type": "Combined injury complex",
+    "Symptoms": ["Neck pain from whiplash", "Rib pain", "Pain with breathing", "Multiple areas of tenderness", "Possible breathing difficulties"],
+    "Diagnosis": ["X-ray for cervical spine and ribs", "MRI for soft tissue assessment", "CT if fracture suspected", "Physical examination"],
+    "Medicines": ["NSAIDs", "Muscle relaxants", "Analgesics", "Topical treatments"],
+    "Prevention": ["Proper vehicle safety features", "Defensive driving", "Seatbelt use", "Head restraint adjustment"],
+    "Care": ["Multidisciplinary approach", "Pain management", "Breathing exercises", "Gradual rehabilitation"]
+  }
+}
